@@ -1,0 +1,38 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+*.iml
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Windows
+Thumbs.db
+*.exe
+*.dll
+*.pdb
+
+# Installer output
+installer/installer_output/
+
+# Drivers - link to download sites instead
+drivers/
+
+# Firebase/secrets (if any)
+*.env
+google-services.json
+firebase_options.dart
+
+# Misc
+*.log
+*.lock
+pubspec.lock
